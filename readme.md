@@ -1,16 +1,16 @@
 # Welcome to my Python playground!
 
 ## Here you can find some of my test projects:
-- guess.py
+- [`guess.py`](guess.py)
     (try guessing the number --- Pro tip: use binary search)
 
-- rps.py
+- [`rps.py`](rps.py)
     (implementation of windows defender, testing #tkinter)
 
-- dijkstra.py
+- [`dijkstra.py`](dijkstra.py)
     (playing with graph generation (#networkx), implementing the dijkstra algorithm, and exploring gifs)
 
-- sudoku.py
+- [`sudoku.py`](sudoku.py)
     (using Z3 to solve a sudoku, explaining why a value can't be placed)
 
 ## Highlight from sudoku
